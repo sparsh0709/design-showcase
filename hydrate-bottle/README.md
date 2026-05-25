@@ -10,9 +10,13 @@
 ## Tools Used
 - Spline
 
+## Live Demo
+[Open Spline Scene](https://my.spline.design/untitled-zZuELSzbxMI945jpCfc2YHtx/)
+
 ## Preview
 
-![Bottle](preview.png)
+![Bottle](bottlepreview.png)
+![Open Bottle](open.png)
 
-## Live Demo
-[Open Spline Scene](PASTE_YOUR_LINK)
+
+
