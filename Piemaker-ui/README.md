@@ -14,7 +14,7 @@ Interactive dessert ordering interface designed in Figma.
 
 ## Preview
 ## Live Prototype
-[Open Figma Prototype]([PASTE_YOUR_LINK_HERE](https://www.figma.com/proto/mSIJTIp0nDCvwnJen7lJP7/PIEMAKER?node-id=99-130&starting-point-node-id=60%3A20))
+[Open Figma Prototype](https://www.figma.com/proto/mSIJTIp0nDCvwnJen7lJP7/PIEMAKER?node-id=99-130&starting-point-node-id=60%3A20)
 
 ### Home Screen
 ![Home](home.png)
